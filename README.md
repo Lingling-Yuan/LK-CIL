@@ -6,7 +6,7 @@
 
 ## Authors
 
-Lingling Yuan, Kang Fu, Xiangwen Kong, Yan Han, Hongzan Sun, Xiaoyan Li, Marcin Grzegorzek, Chen Li
+Lingling Yuan, Kang Fu, Xiangwen Kong, Yan Han, Hongzan Sun, Xiaoyan Li, Marcin Grzegorzek, Chen Li*
 
 
 
