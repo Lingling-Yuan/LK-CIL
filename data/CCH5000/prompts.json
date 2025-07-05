@@ -1,0 +1,42 @@
+{
+  "01_TUMOR": [
+    "Irregular tubular glands with nuclear pleomorphism, hyperchromasia, and intraluminal dirty necrosis.",
+    "Aggregates of crowded, atypical glandular structures with coarse chromatin, frequent mitoses, and a desmoplastic stromal reaction.",
+    "Invasive adenocarcinoma exhibiting angulated glands, central dirty necrosis, and pronounced stromal desmoplasia suggestive of aggressive behaviour."
+  ],
+  "02_STROMA": [
+    "Homogeneous fibrous tissue with sparse spindle cells, abundant collagen bundles, and minimal inflammatory infiltrate.",
+    "Dense collagenous stroma composed of interlacing bundles of fibroblasts and extracellular matrix, often associated with desmoplastic reaction.",
+    "Desmoplastic stroma showing keloid-like collagen deposition and myofibroblast proliferation around invasive tumor islands."
+  ],
+  "03_COMPLEX": [
+    "Fibrous stroma infiltrated by isolated tumor cells and scattered lymphocytes, indicating tumor–stroma interaction.",
+    "Dense reticulin-rich stroma interspersed with atypical epithelial cells, lymphocytic aggregates, and disrupted architecture.",
+    "Interlaced fibrotic strands with entrapped tumor cells and sporadic immune cell clusters, reflecting active desmoplastic response."
+  ],
+  "04_LYMPHO": [
+    "Dense clusters of small, hyperchromatic lymphoid cells forming nodular aggregates within the stroma.",
+    "Tumor-infiltrating lymphocytes showing a mixture of CD3+ T cells and CD20+ B cells at the invasive front, indicating host immune response.",
+    "Peritumoral lymphoid cuffs characterized by tightly packed small lymphocytes, suggesting active antitumor immunity."
+  ],
+  "05_DEBRIS": [
+    "Amorphous eosinophilic debris with extracellular mucin pools and karyorrhectic nuclear fragments.",
+    "Necrotic cell remnants and mucin lakes filling glandular lumina, accompanied by scattered inflammatory cells.",
+    "Extracellular granular debris and mucin deposition indicative of tumor necrosis and secretory activity."
+  ],
+  "06_MUCOSA": [
+    "Well-formed straight crypts lined by uniform columnar cells with abundant mucin-containing goblet cells.",
+    "Epithelial layer composed of absorptive columnar cells and goblet cells forming deep crypts, underlain by lamina propria and muscularis mucosae.",
+    "Healthy mucosa featuring intact epithelial crypt architecture with clear goblet cell mucin vacuoles and minimal inflammatory infiltrate."
+  ],
+  "07_ADIPOSE": [
+    "Large clear lipid vacuoles displacing the cytoplasm peripherally, with flattened nuclei; minimal supporting stroma.",
+    "Mature adipocytes with unilocular fat droplets, delicate septa of connective tissue, and inconspicuous capillary network.",
+    "Benign submucosal adipose tissue comprising lobules of uniform adipocytes, typical of lipoma or normal fat."
+  ],
+  "08_EMPTY": [
+    "Empty spaces devoid of tissue, often containing fixation artifacts or microtome chatter lines.",
+    "Non-tissue areas representing slide edges or processing voids, sometimes with air bubbles or folds.",
+    "Artifact regions lacking cellular content, due to sectioning defects or detachment of fragile tissue."
+  ]
+}
