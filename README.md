@@ -77,7 +77,7 @@ ChestXray14/
 │  │  ├─ 2_Effusion/
 │  │  └─ ...
 │  └─ test/            # same class folders as /train
-├─ prompts/            # prompt templates for 14 classes
+├─ prompts/            # prompts for 14 classes
 ├─ text_feats.npy      # cached text embeddings
 └─ text_feats_keys     # index mapping for text_feats.npy
  ``` 
