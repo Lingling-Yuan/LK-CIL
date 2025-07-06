@@ -33,9 +33,8 @@ class Learner(BaseLearner):
             device=self._device
         )
 
-        # Hyperparameters following the paper notation
-        self.alpha = args.get('alpha', 0.5)         # Base scale α for ensemble blending
-        self.beta = args.get('beta', 0.3)           # Fusion coefficient β for ensemble blending
+        # Hyperparameters: only alpha is retained for inference blending
+        self.alpha = args.get('alpha', 0.5)         # Fusion coefficient α for ensemble blending
         self.lambda_orth = args.get('lambda_orth', 0.3)  # Weight λ_orth for orthogonality loss
         self.lambda_align = args.get('lambda_align', 0.3) # Weight λ_align for alignment loss
 
@@ -65,7 +64,7 @@ class Learner(BaseLearner):
         self.weight_decay = args["weight_decay"] if args["weight_decay"] is not None else 0.0005
         self.min_lr = args["min_lr"] if args["min_lr"] is not None else 1e-8
         self.args = args
-        self.ensemble = args["ensemble"]  # Whether to ensemble during inference
+        self.ensemble = args.get("ensemble", False)  # Whether to ensemble during inference
 
         # Freeze all backbone parameters except adapters and head
         for n, p in self._network.backbone.named_parameters():
@@ -456,7 +455,7 @@ class Learner(BaseLearner):
             if self.ensemble:
                 final_p = F.softmax(final_logits, dim=1)
                 orig_p = F.softmax(orig_logits, dim=1)
-                outputs = self.alpha * final_p + self.beta * orig_p
+                outputs = self.alpha * final_p + (1.0 - self.alpha) * orig_p
             else:
                 outputs = final_logits
             preds = outputs.topk(min(self.topk, outputs.size(1)), dim=1)[1]
