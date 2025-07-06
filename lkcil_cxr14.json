@@ -14,7 +14,6 @@
   "text_feats_keys_path": "./data/CXR14/text_feats_keys.json",
 
   "alpha": 0.5,
-  "beta": 0.3,
   "lambda_orth": 0.3,
   "lambda_align": 0.3,
 
