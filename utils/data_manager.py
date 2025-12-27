@@ -3,7 +3,7 @@ import numpy as np
 from PIL import Image
 from torch.utils.data import Dataset
 from torchvision import transforms
-from utils.data import CXR14, CCH5000
+from utils.data import CXR14, CXR15, CCH5000, NIHCXR_LT, HAM10000, CheXpert
 
 class DataManager:
     def __init__(self, dataset_name, shuffle, seed, init_cls, increment, args):
@@ -120,6 +120,13 @@ class DataManager:
         self._test_trsf = idata.test_trsf
         self._common_trsf = idata.common_trsf
 
+        if self.dataset_name.lower() in ("nihcxr_lt", "nihcxrlt") \
+                or self._train_targets.ndim == 2:
+            n_classes = self._train_targets.shape[1]
+            self._class_order = list(range(n_classes))
+            logging.info(f"Multi-label dataset, class_order = {self._class_order}")
+            return
+
         labels = np.unique(self._train_targets)
         order = labels.tolist()
         if shuffle:
@@ -132,8 +139,19 @@ class DataManager:
         self._test_targets = _map_new_class_index(self._test_targets, order)
 
     def _select(self, x, y, low, high):
-        idxs = np.where((y >= low) & (y < high))[0]
-        return x[idxs], y[idxs]
+        if y.ndim == 1:
+            idxs = np.where((y >= low) & (y < high))[0]
+            return np.array(x)[idxs], np.array(y)[idxs]
+
+        indexes = []
+        for i in range(len(y)):
+            pos_labels = np.where(y[i] == 1)[0]
+            if len(pos_labels) == 0:
+                continue
+            if np.any((pos_labels >= low) & (pos_labels < high)):
+                indexes.append(i)
+
+        return np.array(x)[indexes], y[indexes]
 
     def _select_rmm(self, x, y, low, high, m_rate):
         idxs = np.where((y >= low) & (y < high))[0]
@@ -164,14 +182,25 @@ class DummyDataset(Dataset):
 def _map_new_class_index(y, order):
     return np.array([order.index(v) for v in y])
 
+
+
 def _get_idata(name, args=None):
     n = name.lower()
     if n == "cxr14":
         return CXR14()
+    elif n == "cxr15":
+        return CXR15()
+    elif n == "chexpert":
+        return CheXpert()
     elif n == "cch5000":
         return CCH5000()
+    elif n == "ham10000":
+        return HAM10000()
+    elif n in ("nihcxr_lt", "nihcxrlt"):
+        return NIHCXR_LT()
     else:
         raise NotImplementedError(f"Unknown dataset {name}")
+
 
 def pil_loader(path):
     with open(path, "rb") as f:
