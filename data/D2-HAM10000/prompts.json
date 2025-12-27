@@ -1,0 +1,37 @@
+{
+  "0_akiec": [
+    "Dermoscopy shows a scaly erythematous lesion with a “strawberry pattern,” including follicular openings with surrounding white halos and a red pseudonetwork, suggestive of AKIEC (actinic keratosis/Bowen’s disease).",
+    "Image demonstrates an ill-defined pink to red-brown patch/plaque with surface hyperkeratosis and scattered dotted or short linear vessels, consistent with keratinocytic intraepidermal atypia.",
+    "Dermoscopy reveals yellow-white scale and keratin plugs on a pink-red background, sometimes with focal erosion or crusting, compatible with AKIEC-related changes."
+  ],
+  "1_bcc": [
+    "Dermoscopy shows a pearly, translucent papule/nodule with arborizing telangiectasia and focal ulceration or crusting, characteristic of basal cell carcinoma.",
+    "Image demonstrates blue-gray ovoid nests and/or leaf-like areas with shiny white structures and prominent telangiectatic vessels, supporting the diagnosis of BCC.",
+    "Lesion appears glossy pink or waxy with blue-gray dots/globules and vascular proliferation on dermoscopy, typical of pigmented or mixed-pattern BCC."
+  ],
+  "2_bkl": [
+    "Dermoscopy shows a sharply demarcated tan-to-dark brown plaque with fissures and ridges (cerebriform pattern) and keratin-filled openings, typical of benign keratosis-like lesions.",
+    "Image demonstrates multiple milia-like cysts and comedo-like openings on a relatively uniform background, consistent with seborrheic keratosis–type changes.",
+    "Lesion presents as a light brown patch with mottled pigmentation and a pseudonetwork with mild surface keratosis, commonly seen in solar lentigines or related benign keratoses."
+  ],
+  "3_df": [
+    "Dermoscopy shows a classic dermatofibroma pattern with a central white scar-like area surrounded by a delicate peripheral pigment network.",
+    "Image demonstrates a symmetric brownish lesion with a pale or whitish center and fine reticular pigmentation at the periphery, compatible with dermatofibroma.",
+    "Dermoscopy reveals predominant white structures with limited peripheral brown pigmentation and overall architectural stability, supporting a benign fibrohistiocytic lesion."
+  ],
+  "4_mel": [
+    "Dermoscopy shows marked asymmetry and polychromia (brown/black/gray/blue-white) with an atypical pigment network, irregular dots/globules, and peripheral streaks, suspicious for melanoma.",
+    "Image demonstrates disorganized structures with blue-white veil and/or regression features (white scar-like areas with gray dots), suggestive of malignant melanocytic proliferation.",
+    "Lesion exhibits irregular borders and abrupt color variation with atypical vascular structures and irregular pseudopods or streaks on dermoscopy, consistent with melanoma."
+  ],
+  "5_nv": [
+    "Dermoscopy shows a symmetric lesion with a uniform pigment network or homogeneous brown coloration and smooth, regular borders, consistent with a melanocytic nevus.",
+    "Image demonstrates a regular globular pattern or concentric structures with minimal color variability and preserved symmetry, typical of benign nevi.",
+    "Dermoscopy reveals a stable pattern with structured reticular or homogeneous areas and no prominent multicolor or chaotic architecture, supporting a benign nevus."
+  ],
+  "6_vasc": [
+    "Dermoscopy shows clustered red to violaceous lacunae separated by pale septa, a classic feature of vascular lesions such as angiomas or angiokeratomas.",
+    "Image demonstrates dark red to black-red rounded clods with possible overlying keratosis or crust, compatible with angiokeratoma or hemorrhagic change; partial blanching may be seen with pressure.",
+    "Lesion appears as a bright red papule/nodule that may bleed easily; dermoscopy shows a homogeneous red area with a peripheral white collarette, suggestive of pyogenic granuloma or vascular proliferation."
+  ]
+}

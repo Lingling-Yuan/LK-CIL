@@ -1,0 +1,77 @@
+{
+  "0_Atelectasis": [
+    "Alveolar architecture collapses, with alveolar spaces obliterated and appearing slit-like.",
+    "Alveolar walls become apposed, and capillary lumens are markedly narrowed.",
+    "widespread closure of alveolar spaces"
+  ],
+  "1_Cardiomegaly": [
+    "Cardiomyocyte hypertrophy",
+    "Myocyte hypertrophy with enlarged hyperchromatic nuclei, mixed with myocyte atrophy and focal interstitial fibrosis",
+    "Myocyte hypertrophy, fibrosis and disarray"
+  ],
+  "2_Effusion": [
+    "Cytology shows a background of red blood cells with a rich population of neutrophils and eosinophils",
+    "Reactive mesothelial cells and scattered lymphocytes",
+    "cattered cells with prominent nucleoli with some cells having irregular nuclear membrane, Consistent with atypical hyperplasia of uncertain significance"
+  ],
+  "3_Infiltration": [
+    "The tumor exhibits a predominant lepidic pattern, growing along intact alveolar walls. Focal stromal invasion is present.",
+    "The tumor is composed of a mixture of invasive acinar structures and sheets of solid growth.",
+    "The tumor demonstrates a predominant papillary pattern with fibrovascular cores, showing invasive growth."
+  ],
+  "4_Mass": [
+    "Primitive round cells arranged in nests with fibrovascular septa; wreath-like multinucleated giant cells and rhabdomyoblasts are present; brisk mitotic activity with necrosis. Findings are consistent with Alveolar Rhabdomyosarcoma.",
+    "Lobulated and well-circumscribed tumor architecture, accompanied by osteoclast-like multinucleated giant cells, hemosiderin deposition, and stromal hyalinization. Findings are consistent with giant cell tumor.",
+    "The tumor is well-circumscribed. It is normocellular and composed of intersecting fascicles of monotonous spindle cells with indistinct borders, abundant eosinophilic cytoplasm, and characteristic cigar-shaped nuclei containing uniform chromatin and small nucleoli. Findings are consistent with leiomyoma."
+  ],
+  "5_Nodule": [
+    "The section shows a central zone of fibrinoid necrosis surrounded by a palisade of epithelioid histiocytes and lymphocytes. Consistent with Rheumatoid Nodule.",
+    "Epithelioid cell proliferation forming a nodule. The cells have vesicular nuclei, prominent nucleoli, and abundant eosinophilic cytoplasm. Focal vascular lumen formation is seen, accompanied by a mild chronic inflammatory cell infiltrate. Consistent with a Cutaneous Epithelioid Angiomatous Nodule.",
+    "The section shows well-circumscribed, homogeneous, eosinophilic, amorphous material, accompanied by an infiltrate of lymphocytes and plasma cells. Consistent with amyloidoma."
+  ],
+  "6_Pneumonia": [
+    "The section shows patchy intraalveolar edema and interstitial inflammation. The interstitium is densely infiltrated by eosinophils, accompanied by multinucleated giant cells, scattered histiocytes, and plasma cells.Consistent with Chronic Eosinophilic Pneumonia.",
+    "Interstitial infiltrate of lymphocytes, plasma cells, and histiocytes, with cholesterol deposition and multinucleated giant cell formation. The alveolar architecture is preserved.Consistent with Hypersensitivity Pneumonitis.",
+    "Polypoid proliferation is seen within the alveolar spaces. The lung tissue exhibits a mild to moderate inflammatory infiltrate, characterized by thickened alveolar septa containing lymphocytes, plasma cells, and histiocytes.Consistent with Organizing Pneumonia."
+  ],
+  "7_Pneumothorax": [
+    "Alveolar dilation, septal destruction, alveolar fusion, pulmonary bullae formation, rupture openings are visible, and the surrounding lung tissue is subtracted.",
+    "Dilation and destruction of bronchi.",
+    "The lung tissue shows extensive emphysematous changes, with bullae and a rupture site, and fibrinous exudate on the pleural surface."
+  ],
+  "8_Consolidation": [
+    "Massive confluent exudate with intra-alveolar neutrophils, red cells and fibrin",
+    "Intra-alveolar fibrinopurulent exudate with neutrophils",
+    "Intra-alveolar proliferation of fibroblasts"
+  ],
+  "9_Edema": [
+    "Alveolar septa are diffusely widened by accumulated edema fluid.",
+    "Pulmonary capillaries and lymphatic vessels are dilated and engorged.",
+    "Alveolar spaces contain homogeneous, pale pink-staining edema fluid."
+  ],
+  "10_Emphysema": [
+    "Fragmented alveolar walls",
+    "Airspace enlargement",
+    "Elongated or angulated spaces in fibrotic interstitium. Surrounded by dense fibrosis and lining of multiple giant cells."
+  ],
+  "11_Fibrosis": [
+    "Well-circumscribed plaques of dense, hyalinized, acellular collagen.",
+    "prominent stromal hyalinization, compressed and thin walled vessels.",
+    "There is a diffuse proliferation of fibroblasts and myofibroblasts within the interstitium, accompanied by a scant lymphocytic infiltrate and mild collagen deposition."
+  ],
+  "12_PleuralThickening": [
+    "Reactive hyperplasia of submesothelial fibroconnective tissue.",
+    "Diffusely proliferative fibrotic stroma",
+    "Subpleural fibroblast proliferation"
+  ],
+  "13_Hernia": [
+    "The fibrocystic wall with extensive edema, no lining epithelium",
+    "Adipose tissue within sac; dilated vessels, congestion, and chronic inflammation in sac wall.",
+    "The content within the fibrous sac wall consists of peritoneum and adipose tissue; the neck of the sac shows prominent fibrous thickening."
+  ],
+  "14_COVID19": [
+    "Chest X-ray demonstrating bilateral, peripheral predominant patchy ground-glass opacities with lower-lobe emphasis, consistent with COVID-19 pneumonia.",
+    "Radiograph showing multifocal hazy air-space opacities in both lungs without a single lobar distribution, suggestive of viral pneumonia such as COVID-19.",
+    "Image depicting progressive diffuse bilateral opacification with worsening oxygenation features, compatible with severe COVID-19–related acute lung injury/ARDS."
+  ]
+}

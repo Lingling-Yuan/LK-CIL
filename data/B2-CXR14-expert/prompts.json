@@ -1,0 +1,100 @@
+{
+  "0_Atelectasis": [
+    "Alveolar architecture collapses, with alveolar spaces obliterated and appearing slit-like.",
+    "Alveolar walls become apposed, and capillary lumens are markedly narrowed.",
+    "widespread closure of alveolar spaces",
+    "Marked congestion of capillaries within the collapsed alveolar septa, with a complete absence of alveolar air and accumulation of intra-alveolar fluid.",
+    "Bronchial obstruction leading to distal alveolar collapse, accompanied by a secondary accumulation of foamy macrophages and mucus secretions."
+  ],
+  "1_Cardiomegaly": [
+    "Cardiomyocyte hypertrophy",
+    "Myocyte hypertrophy with enlarged hyperchromatic nuclei, mixed with myocyte atrophy and focal interstitial fibrosis",
+    "Myocyte hypertrophy, fibrosis and disarray",
+    "Cardiomyocytes exhibit enlarged, rectangular 'boxcar' nuclei and abundant sarcoplasm, indicating cellular hypertrophy.",
+    "Increased perinuclear lipofuscin pigment deposition within hypertrophied myocytes, accompanied by distinct interstitial collagen deposition."
+  ],
+  "2_Effusion": [
+    "Cytology shows a background of red blood cells with a rich population of neutrophils and eosinophils",
+    "Reactive mesothelial cells and scattered lymphocytes",
+    "cattered cells with prominent nucleoli with some cells having irregular nuclear membrane, Consistent with atypical hyperplasia of uncertain significance",
+    "Fibrinous strands entangling scattered macrophages and degenerating mesothelial cells, indicating an exudative process.",
+    "Clusters of malignant cells with high nuclear-to-cytoplasmic ratios and vacuolated cytoplasm, consistent with metastatic adenocarcinoma within the pleural fluid."
+  ],
+  "3_Infiltration": [
+    "The tumor exhibits a predominant lepidic pattern, growing along intact alveolar walls. Focal stromal invasion is present.",
+    "The tumor is composed of a mixture of invasive acinar structures and sheets of solid growth.",
+    "The tumor demonstrates a predominant papillary pattern with fibrovascular cores, showing invasive growth.",
+    "The tumor shows a micropapillary pattern, characterized by small tufts of cells lacking fibrovascular cores, floating within alveolar spaces.",
+    "Solid sheets of polygonal tumor cells with intracellular mucin production, obliterating the underlying alveolar architecture."
+  ],
+  "4_Mass": [
+    "Primitive round cells arranged in nests with fibrovascular septa; wreath-like multinucleated giant cells and rhabdomyoblasts are present; brisk mitotic activity with necrosis. Findings are consistent with Alveolar Rhabdomyosarcoma.",
+    "Lobulated and well-circumscribed tumor architecture, accompanied by osteoclast-like multinucleated giant cells, hemosiderin deposition, and stromal hyalinization. Findings are consistent with giant cell tumor.",
+    "The tumor is well-circumscribed. It is normocellular and composed of intersecting fascicles of monotonous spindle cells with indistinct borders, abundant eosinophilic cytoplasm, and characteristic cigar-shaped nuclei containing uniform chromatin and small nucleoli. Findings are consistent with leiomyoma.",
+    "Disorganized mixture of cartilage, adipose tissue, and fibromyxoid stroma with entrapped respiratory epithelium. Consistent with Pulmonary Hamartoma.",
+    "Nests of polygonal cells with intercellular bridges and keratin pearl formation, showing invasion into the stroma. Consistent with Squamous Cell Carcinoma."
+  ],
+  "5_Nodule": [
+    "The section shows a central zone of fibrinoid necrosis surrounded by a palisade of epithelioid histiocytes and lymphocytes. Consistent with Rheumatoid Nodule.",
+    "Epithelioid cell proliferation forming a nodule. The cells have vesicular nuclei, prominent nucleoli, and abundant eosinophilic cytoplasm. Focal vascular lumen formation is seen, accompanied by a mild chronic inflammatory cell infiltrate. Consistent with a Cutaneous Epithelioid Angiomatous Nodule.",
+    "The section shows well-circumscribed, homogeneous, eosinophilic, amorphous material, accompanied by an infiltrate of lymphocytes and plasma cells. Consistent with amyloidoma.",
+    "Well-formed granuloma characterized by a central area of caseous necrosis surrounded by epithelioid histiocytes and Langhans giant cells.",
+    "Nodule composed of metastatic melanoma cells with prominent nucleoli and intracytoplasmic melanin pigment, well-demarcated from surrounding tissue."
+  ],
+  "6_Pneumonia": [
+    "The section shows patchy intraalveolar edema and interstitial inflammation. The interstitium is densely infiltrated by eosinophils, accompanied by multinucleated giant cells, scattered histiocytes, and plasma cells.Consistent with Chronic Eosinophilic Pneumonia.",
+    "Interstitial infiltrate of lymphocytes, plasma cells, and histiocytes, with cholesterol deposition and multinucleated giant cell formation. The alveolar architecture is preserved.Consistent with Hypersensitivity Pneumonitis.",
+    "Polypoid proliferation is seen within the alveolar spaces. The lung tissue exhibits a mild to moderate inflammatory infiltrate, characterized by thickened alveolar septa containing lymphocytes, plasma cells, and histiocytes.Consistent with Organizing Pneumonia.",
+    "Alveoli are packed with neutrophils, fibrin strands, and cellular debris, representing the stage of gray hepatization in lobar pneumonia.",
+    "Diffuse alveolar damage characterized by hyaline membrane formation lining the alveolar ducts and interstitial lymphocytic infiltration."
+  ],
+  "7_Pneumothorax": [
+    "Alveolar dilation, septal destruction, alveolar fusion, pulmonary bullae formation, rupture openings are visible, and the surrounding lung tissue is subtracted.",
+    "Dilation and destruction of bronchi.",
+    "The lung tissue shows extensive emphysematous changes, with bullae and a rupture site, and fibrinous exudate on the pleural surface.",
+    "Subpleural blebs are visible with thinned fibrous walls and sparse chronic inflammation, associated with adjacent paraseptal emphysema.",
+    "The visceral pleura shows focal reactive mesothelial hyperplasia and fibrin deposition adjacent to a site of alveolar rupture."
+  ],
+  "8_Consolidation": [
+    "Massive confluent exudate with intra-alveolar neutrophils, red cells and fibrin",
+    "Intra-alveolar fibrinopurulent exudate with neutrophils",
+    "Intra-alveolar proliferation of fibroblasts",
+    "Alveolar spaces are filled with fresh erythrocytes and hemosiderin-laden macrophages, with preserved septal architecture, suggesting pulmonary hemorrhage.",
+    "Accumulation of lipid-laden macrophages (foamy cells) within the alveolar spaces, accompanied by a foreign body giant cell reaction (Lipoid Pneumonia)."
+  ],
+  "9_Edema": [
+    "Alveolar septa are diffusely widened by accumulated edema fluid.",
+    "Pulmonary capillaries and lymphatic vessels are dilated and engorged.",
+    "Alveolar spaces contain homogeneous, pale pink-staining edema fluid.",
+    "Presence of intra-alveolar siderophages (heart failure cells) indicating chronic passive congestion and capillary leakage.",
+    "Perivascular connective tissue is expanded by transudative fluid, creating a 'cuffing' effect around the pulmonary arterioles."
+  ],
+  "10_Emphysema": [
+    "Fragmented alveolar walls",
+    "Airspace enlargement",
+    "Elongated or angulated spaces in fibrotic interstitium. Surrounded by dense fibrosis and lining of multiple giant cells.",
+    "Uniform enlargement of acini from the respiratory bronchiole to the terminal alveoli, with thinning and loss of alveolar septa (Panacinar pattern).",
+    "Destruction of elastic fibers within the alveolar walls, demonstrated by elastic stain, leading to loss of recoil and airspace distension."
+  ],
+  "11_Fibrosis": [
+    "Well-circumscribed plaques of dense, hyalinized, acellular collagen.",
+    "prominent stromal hyalinization, compressed and thin walled vessels.",
+    "There is a diffuse proliferation of fibroblasts and myofibroblasts within the interstitium, accompanied by a scant lymphocytic infiltrate and mild collagen deposition.",
+    "Architectural distortion with fibroblastic foci at the edges of dense collagen scars, alternating with areas of normal lung (spatial heterogeneity).",
+    "Cystic airspaces lined by bronchiolar epithelium and separated by dense fibrous tissue, representing end-stage honeycomb lung changes."
+  ],
+  "12_PleuralThickening": [
+    "Reactive hyperplasia of submesothelial fibroconnective tissue.",
+    "Diffusely proliferative fibrotic stroma",
+    "Subpleural fibroblast proliferation",
+    "Paucicellular dense collagen bundles arranged in a 'basket-weave' pattern, with focal calcification, typical of asbestos-related plaques.",
+    "Thickened parietal pleura exhibiting dense lymphoplasmacytic infiltration and neovascularization, indicative of chronic pleuritis."
+  ],
+  "13_Hernia": [
+    "The fibrocystic wall with extensive edema, no lining epithelium",
+    "Adipose tissue within sac; dilated vessels, congestion, and chronic inflammation in sac wall.",
+    "The content within the fibrous sac wall consists of peritoneum and adipose tissue; the neck of the sac shows prominent fibrous thickening.",
+    "The herniated sac contains gastric fundic mucosa with parietal and chief cells, showing signs of mild chronic gastritis.",
+    "The herniated omental tissue shows fat necrosis, hemorrhage, and acute inflammatory infiltration due to vascular compromise."
+  ]
+}

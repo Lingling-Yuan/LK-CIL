@@ -1,0 +1,100 @@
+{
+  "0_Atelectasis": [
+    "A chest X-ray showing focal volume loss with increased radiopacity in the affected lung.",
+    "Radiograph demonstrating a shift of the pulmonary fissures toward the area of collapse.",
+    "Image indicative of atelectasis showing elevation of the hemidiaphragm on the ipsilateral side.",
+    "Frontal view displaying mediastinal or tracheal deviation toward the collapsed lung segment.",
+    "X-ray feature presenting a triangular or wedge-shaped density pointing towards the hilum."
+  ],
+  "1_Cardiomegaly": [
+    "A chest X-ray revealing a significantly enlarged transverse cardiac diameter.",
+    "Frontal radiograph showing a cardiothoracic ratio greater than 0.5 indicative of cardiomegaly.",
+    "Image demonstrating bilateral or unilateral expansion of the cardiac silhouette.",
+    "Lateral view displaying the posterior cardiac border projecting backward beyond the spine.",
+    "Radiographic appearance where the cardiac apex is rounded or displaced downward and laterally."
+  ],
+  "2_Effusion": [
+    "A chest X-ray showing blunting or complete obliteration of the costophrenic angle.",
+    "Radiograph demonstrating homogeneous opacity obscuring the lower lung field.",
+    "Image featuring a meniscus sign with a concave upper border suggestive of fluid.",
+    "Frontal view showing a massive opacity causing mediastinal shift away from the affected side.",
+    "X-ray display of widened intercostal spaces associated with fluid accumulation."
+  ],
+  "3_Infiltration": [
+    "A chest X-ray displaying ill-defined patchy or cloudy opacities within the lung fields.",
+    "Radiograph demonstrating heterogeneous density representing interstitial or alveolar exudate.",
+    "Image showing opacities that do not completely obscure the underlying vascular markings.",
+    "Frontal view revealing a localized segmental or diffuse bilateral distribution of infiltrates.",
+    "X-ray feature consistent with early inflammatory changes or interstitial lung disease."
+  ],
+  "4_Mass": [
+    "A chest X-ray identifying a focal soft tissue density larger than 3 centimeters in diameter.",
+    "Radiograph showing a lesion with margins that may be smooth, lobulated, or irregular.",
+    "Image demonstrating a homogeneous density potentially containing central cavitation or calcification.",
+    "Frontal view showing signs of compression on surrounding tissues causing secondary atelectasis.",
+    "X-ray feature of a distinct space-occupying lesion requiring comparison with prior imaging."
+  ],
+  "5_Nodule": [
+    "A chest X-ray showing a round or oval opacity smaller than 3 centimeters in diameter.",
+    "Radiograph demonstrating a solitary lesion or multiple scattered dense spots.",
+    "Image featuring a benign-appearing nodule with smooth edges and central calcification.",
+    "Frontal view revealing a nodule with malignant features such as spiculation or pleural tagging.",
+    "X-ray display of a focal density ranging from ground-glass opacity to solid consolidation."
+  ],
+  "6_Pneumonia": [
+    "A chest X-ray exhibiting patchy consolidation within a lobar or segmental distribution.",
+    "Radiograph demonstrating increased focal density with ill-defined and blurry margins.",
+    "Image showing characteristic air bronchograms visible within the opacified area.",
+    "Frontal view displaying an asymmetrical area of inflammation distinct from surrounding lung.",
+    "X-ray feature showing non-homogeneous shadows indicative of acute infection."
+  ],
+  "7_Pneumothorax": [
+    "A chest X-ray showing a peripheral hyperlucent area devoid of pulmonary vascular markings.",
+    "Radiograph demonstrating a visible thin white line representing the visceral pleura.",
+    "Image featuring compression and retraction of the lung parenchyma toward the hilum.",
+    "Frontal view indicative of tension pneumothorax showing mediastinal shift to the contralateral side.",
+    "X-ray display of a deep sulcus sign or increased lucency in the hemithorax."
+  ],
+  "8_Consolidation": [
+    "A chest X-ray showing airspace opacification where air is replaced by fluid or cells.",
+    "Radiograph demonstrating obscuration of pulmonary vessels within a dense white area.",
+    "Image featuring clear air bronchograms showing patent airways against a solid background.",
+    "Frontal view displaying blurry margins unless the process is bounded by a pleural fissure.",
+    "X-ray feature typical of lobar pneumonia involving complete alveolar filling."
+  ],
+  "9_Edema": [
+    "A chest X-ray revealing increased, thickened, and blurry pulmonary vascular markings.",
+    "Radiograph demonstrating Kerley B lines appearing as horizontal lines near the costophrenic angles.",
+    "Image showing a central bat-wing or butterfly pattern of perihilar opacity.",
+    "Frontal view displaying bilateral symmetrical densities favoring gravity-dependent zones.",
+    "X-ray feature associated with cardiomegaly and a widened vascular pedicle."
+  ],
+  "10_Emphysema": [
+    "A chest X-ray showing hyperinflation with significantly increased radiolucency of the lungs.",
+    "Radiograph demonstrating flattening of the hemidiaphragms and blunting of costophrenic angles.",
+    "Image featuring a widened retrosternal space and barrel chest appearance on lateral view.",
+    "Frontal view displaying a narrow, vertical heart shadow often described as a drop heart.",
+    "X-ray display of bullae appearing as avascular thin-walled lucent areas."
+  ],
+  "11_Fibrosis": [
+    "A chest X-ray exhibiting diffuse or focal reticular or linear interstitial markings.",
+    "Radiograph demonstrating volume loss accompanied by traction bronchiectasis.",
+    "Image featuring coarse reticulation or honeycomb changes indicative of advanced disease.",
+    "Frontal view showing sharp margins that are distinct from the surrounding normal lung.",
+    "X-ray feature presenting distortion or displacement of the hilar structures and diaphragm."
+  ],
+  "12_PleuralThickening": [
+    "A chest X-ray showing a band-like soft tissue density running along the lateral chest wall.",
+    "Radiograph demonstrating blunted costophrenic angles that do not shift with position change.",
+    "Image featuring irregular plaque-like calcifications along the pleural surface.",
+    "Frontal view indicative of scarring with associated volume loss and rib crowding.",
+    "X-ray display of pleural changes often sequelae of prior inflammation or trauma."
+  ],
+  "13_Hernia": [
+    "A chest X-ray showing a retrocardiac or mediastinal mass containing air pockets.",
+    "Radiograph demonstrating the presence of an air-fluid level within the thoracic cavity.",
+    "Image featuring mild contralateral mediastinal shift due to the mass effect of herniated viscera.",
+    "Frontal view displaying disruption or obscuration of the normal hemidiaphragm contour.",
+    "X-ray feature confirming gastric bubble or bowel loops located above the diaphragm level."
+  ]
+}

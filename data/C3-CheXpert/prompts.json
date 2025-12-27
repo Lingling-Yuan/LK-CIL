@@ -1,0 +1,62 @@
+{
+  "0_Atelectasis": [
+    "Chest radiograph shows focal volume loss with crowding of bronchovascular markings, compatible with atelectasis.",
+    "Frontal view demonstrates linear/plate-like opacity with fissural shift or mild hemidiaphragm elevation suggesting lobar or segmental collapse.",
+    "There may be mild ipsilateral mediastinal or tracheal shift with hilar displacement, supporting a diagnosis of atelectasis."
+  ],
+  "1_Cardiomegaly": [
+    "Posteroanterior chest radiograph shows an enlarged cardiac silhouette with an increased cardiothoracic ratio, suggestive of cardiomegaly.",
+    "The cardiac borders are globally prominent and widened, sometimes with prominent pulmonary vasculature consistent with cardiac enlargement.",
+    "After excluding projectional factors, the heart occupies an abnormally large transverse thoracic diameter, compatible with cardiomegaly."
+  ],
+  "2_Consolidation": [
+    "A focal or lobar homogeneous air-space opacity is present, consistent with consolidation (alveolar filling).",
+    "Air bronchograms may be visible within the dense region, indicating patent bronchi surrounded by alveolar opacification.",
+    "The opacity can respect lobar boundaries with a silhouette sign against adjacent structures, supporting consolidation."
+  ],
+  "3_Edema": [
+    "Bilateral perihilar fluffy opacities with a 'bat-wing' distribution are seen, compatible with pulmonary edema.",
+    "Interstitial edema features such as Kerley B lines, peribronchial cuffing, and vascular blurring may be present.",
+    "Upper-lobe vascular redistribution and associated pleural effusions or cardiomegaly further support cardiogenic edema."
+  ],
+  "4_EnlargedCardiomediastinum": [
+    "The cardiomediastinal silhouette is widened or enlarged, consistent with an enlarged cardiomediastinum.",
+    "Upper mediastinal widening with outward displacement of mediastinal contours and possible tracheal deviation can be seen.",
+    "After accounting for positioning and inspiratory effort, the overall cardiomediastinal contour remains enlarged."
+  ],
+  "5_Fracture": [
+    "There is cortical discontinuity or a step-off deformity in the rib or clavicle, consistent with fracture.",
+    "The fracture may show displacement or angulation with adjacent soft-tissue swelling.",
+    "Subtle fractures can appear as a thin lucent line and may require additional views or careful magnified inspection."
+  ],
+  "6_LungLesion": [
+    "A focal pulmonary lesion is present, appearing as a nodule or mass-like opacity distinct from surrounding lung markings.",
+    "Margins may be lobulated, spiculated, or associated with cavitation or calcification, warranting CT characterization.",
+    "A solitary or multiple focal lesions with adjacent distortion or surrounding change can reflect neoplasm, granuloma, or infection."
+  ],
+  "7_LungOpacity": [
+    "A non-specific increased pulmonary opacity is present, which may be patchy, hazy, or diffusely distributed.",
+    "There can be reduced lucency and partial obscuration of vascular markings without features sufficient to specify the etiology.",
+    "When opacities are multifocal or bilateral, clinical correlation and follow-up imaging or CT are recommended to clarify the cause."
+  ],
+  "8_PleuralEffusion": [
+    "Blunting of the costophrenic angle with a meniscus-shaped opacity is seen, consistent with pleural effusion.",
+    "Large effusions can cause homogeneous lower hemithorax opacity with mass effect and possible contralateral mediastinal shift.",
+    "On supine films, diffuse increased hemithorax density with subtle layering and obscured diaphragmatic margins may suggest effusion."
+  ],
+  "9_PleuralOther": [
+    "Pleural thickening is present as a peripheral linear opacity along the chest wall or an apical pleural cap.",
+    "Pleural plaques or calcifications may appear as focal high-density pleural-based opacities, compatible with chronic pleural disease.",
+    "Pleural adhesions can produce localized distortion or traction changes, representing non-effusion pleural abnormalities."
+  ],
+  "10_Pneumonia": [
+    "A new patchy or lobar air-space opacity is present, sometimes with air bronchograms, suggesting pneumonia.",
+    "Opacities are often ill-defined and may be multifocal with associated interstitial prominence, consistent with infection/inflammation.",
+    "A silhouette sign (e.g., loss of a heart border) and interval change on follow-up imaging further support pneumonia."
+  ],
+  "11_Pneumothorax": [
+    "A visible visceral pleural line with absence of peripheral lung markings indicates pneumothorax.",
+    "On supine radiographs, a deep sulcus sign may be present, manifested by an abnormally deep and lucent costophrenic angle.",
+    "In tension pneumothorax, mediastinal shift, diaphragmatic depression, and lung collapse can be seen and require urgent attention."
+  ]
+}

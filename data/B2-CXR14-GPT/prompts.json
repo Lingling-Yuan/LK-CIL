@@ -1,0 +1,100 @@
+{
+  "0_Atelectasis": [
+    "A chest X-ray showing focal volume loss with mediastinal shift toward the affected side, consistent with atelectasis.",
+    "Frontal radiograph demonstrating linear opacification and elevation of the hemidiaphragm in lobar collapse.",
+    "Image featuring platelike opacities and crowding of pulmonary vessels indicative of atelectatic segments.",
+    "Radiograph showing displacement of interlobar fissures and ipsilateral hilar shift, supporting lobar atelectasis.",
+    "Image demonstrating compensatory hyperinflation of adjacent lobes with rib crowding over the collapsed region."
+  ],
+  "1_Cardiomegaly": [
+    "Posterior–anterior chest radiograph with a cardiothoracic ratio exceeding 50%, suggestive of cardiomegaly.",
+    "X-ray depicting a double contour of the right heart border and overall enlarged cardiac silhouette.",
+    "Image demonstrating protrusion of the left cardiac border and prominent pulmonary vasculature in heart enlargement.",
+    "Chest X-ray with downward and lateral displacement of the cardiac apex, suggesting left ventricular enlargement.",
+    "Radiograph showing prominent right atrial border bulge with an enlarged cardiac silhouette consistent with cardiomegaly."
+  ],
+  "2_Effusion": [
+    "Image illustrating meniscus-shaped opacity blunting the costophrenic angle, characteristic of pleural effusion.",
+    "Supine film showing homogeneous hemithorax opacity with dependent layering fluid sign.",
+    "Radiograph with lateral view revealing fluid-level crescent and obscured diaphragm edge.",
+    "Upright film demonstrating a small laminar effusion as subtle costophrenic angle blunting with mild basal haze.",
+    "Image suggesting a subpulmonic effusion with apparent diaphragmatic elevation and a laterally peaked hemidiaphragm."
+  ],
+  "3_Infiltration": [
+    "Chest X-ray demonstrating patchy alveolar infiltrates with ill-defined margins in the lower lobes.",
+    "Radiograph with diffuse interstitial opacities and Kerley B lines indicating pulmonary infiltration.",
+    "Image showing confluent hazy opacities across multiple lung segments, consistent with multifocal infiltration.",
+    "Radiograph demonstrating peribronchial thickening and ill-defined perihilar haze consistent with inflammatory infiltration.",
+    "Image showing scattered ground-glass–like opacities with preserved lung volumes, compatible with early infiltration."
+  ],
+  "4_Mass": [
+    "Image presenting a solitary round opacity larger than 3 cm with irregular margins suggestive of a mass.",
+    "Radiograph showing bilateral pulmonary masses, one with spiculated borders and surrounding haziness.",
+    "Chest X-ray featuring a well-defined lobulated lesion in the right upper lobe consistent with a mass.",
+    "Chest X-ray revealing a hilar mass with lobulated contour and associated bronchial narrowing.",
+    "Radiograph showing a cavitating pulmonary mass with an air–fluid level and irregular thick wall."
+  ],
+  "5_Nodule": [
+    "Frontal X-ray with a solitary pulmonary nodule under 3 cm diameter and smooth margins.",
+    "Image showing multiple small round opacities, each less than 1 cm, scattered throughout both lungs.",
+    "Radiograph depicting a coin-like lesion in the right middle lung zone consistent with a nodule.",
+    "Image demonstrating a calcified, well-circumscribed granulomatous nodule with central or laminar calcification.",
+    "Radiograph showing a spiculated solitary pulmonary nodule with subtle pleural retraction."
+  ],
+  "6_Pneumonia": [
+    "Chest radiograph with lobar consolidation and air bronchograms in the right lower lobe indicating pneumonia.",
+    "Image showing patchy bilateral opacities with onset of acute air-space disease typical of pneumonia.",
+    "X-ray demonstrating segmental consolidation with silhouette sign obscuring the right heart border.",
+    "Radiograph with a bronchopneumonia pattern showing peribronchial patchy opacities across multiple segments.",
+    "Image demonstrating improving pneumonia with decreasing consolidation and residual linear atelectatic streaks."
+  ],
+  "7_Pneumothorax": [
+    "Frontal film with visible visceral pleural line and absence of vascular markings peripheral to it, indicating pneumothorax.",
+    "Image showing deep sulcus sign on supine radiograph consistent with anterior pneumothorax.",
+    "Chest X-ray featuring mediastinal shift away from the side of a large tension pneumothorax.",
+    "Upright film showing increased apical lucency with a sharp pleural line and partial lung collapse.",
+    "Lateral decubitus radiograph demonstrating free pleural air rising to the nondependent side, confirming pneumothorax."
+  ],
+  "8_Consolidation": [
+    "Radiograph with homogeneous lobar consolidation and air bronchograms, typical of alveolar filling.",
+    "Chest X-ray showing dense segmental opacity obscuring vessels and airway walls.",
+    "Image depicting confluent consolidation in the right middle lobe with sharp lobar margins.",
+    "Radiograph demonstrating a lobar opacity with a silhouette sign against the adjacent diaphragm or heart border.",
+    "Image showing air bronchograms traversing dense alveolar opacity, supporting pulmonary consolidation."
+  ],
+  "9_Edema": [
+    "X-ray demonstrating bilateral perihilar bat-wing pattern of edema with prominent interstitial markings.",
+    "Radiograph with bilateral Kerley B lines and peribronchial cuffing in pulmonary edema.",
+    "Image showing vascular redistribution to upper lobes and scattered alveolar infiltrates of edema.",
+    "Chest X-ray showing cardiomegaly with cephalization of pulmonary vessels and superimposed interstitial edema.",
+    "Radiograph demonstrating small bilateral pleural effusions accompanying findings of pulmonary edema."
+  ],
+  "10_Emphysema": [
+    "Chest X-ray with hyperlucent lung fields, flattened diaphragms, and increased retrosternal airspace.",
+    "Radiograph showing barrel-chest configuration and bullae in upper lobes characteristic of emphysema.",
+    "Image depicting diminished vascular markings with diaphragmatic flattening in COPD emphysema.",
+    "Radiograph showing increased lung volumes with widened intercostal spaces and a vertically oriented, narrow cardiac silhouette.",
+    "Image demonstrating large bullae with curvilinear walls and paucity of peripheral vascular markings."
+  ],
+  "11_Fibrosis": [
+    "X-ray with basal predominant reticular opacities and honeycombing typical of pulmonary fibrosis.",
+    "Radiograph showing fine linear interstitial markings and traction bronchiectasis in fibrotic lung.",
+    "Image depicting subpleural cystic changes and volume loss in chronic fibrotic disease.",
+    "Chest X-ray showing reduced lung volumes with reticulonodular opacities and architectural distortion consistent with fibrosis.",
+    "Radiograph demonstrating upper-lobe volume loss with hilar retraction and pleural-based fibrotic change."
+  ],
+  "12_PleuralThickening": [
+    "Image illustrating irregular pleural contour with focal thickening along the lateral chest wall.",
+    "Radiograph showing calcified pleural plaques and apical pleural thickening in asbestos exposure.",
+    "Chest X-ray demonstrating diffuse pleural line thickening with adjacent subpleural opacities.",
+    "Image showing an apical pleural cap with a smooth pleural-based density consistent with chronic pleural thickening.",
+    "Radiograph demonstrating localized pleural thickening producing an obtuse costophrenic angle without a classic meniscus."
+  ],
+  "13_Hernia": [
+    "Frontal X-ray showing air-fluid level in thoracic cavity consistent with hiatal hernia.",
+    "Image demonstrating retrocardiac opacity with mottled gastric bubbles above the diaphragm.",
+    "Chest radiograph with mediastinal widening and bowel gas pattern in left hemithorax indicating diaphragmatic hernia.",
+    "Radiograph showing a retrocardiac air-containing structure with visible rugal folds, supportive of a hiatal hernia.",
+    "Image demonstrating an anterior cardiophrenic-angle air–fluid level or gas-containing opacity compatible with a Morgagni-type diaphragmatic hernia."
+  ]
+}
