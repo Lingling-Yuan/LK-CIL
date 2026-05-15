@@ -1,4 +1,4 @@
-# LK-CIL: Language-guided Knowledge-enhanced Class-Incremental Learning for Chest X-ray Imaging
+# LK-CIL: Language-guided knowledge-enhanced class-incremental learning for chest X-ray imaging
 
 **Status:** Under Review
 
