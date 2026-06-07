@@ -17,13 +17,7 @@ Chest-X-ray (CXR) class-incremental learning is prone to catastrophic forgetting
 Extensive experiments on ChestX-ray14 (5-3 & 6-4 splits, long-tailed and balanced) and on the CCH5000 colorectal pathology dataset (2-2 split) show that LK-CIL delivers the highest AUC (up to 77.57 %) with the lowest forgetting (as low as 1.17 %) versus eight strong baselines.   
 
 
-
-
-<div align="center">
-  <img src="LK-CIL-overview.png" alt="Overview" width="800">
-</div>
-
-
+![Overview](LK-CIL-overview.png)
 
 
 ## Environment Setup
