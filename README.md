@@ -1,8 +1,4 @@
-# LK-CIL: Language-guided knowledge-enhanced class-incremental learning for chest X-ray imaging
-
-**Status:** Under Review
-
-
+# [TRPMS 2026] LK-CIL: Language-guided knowledge-enhanced class-incremental learning for chest X-ray imaging
 
 ## Authors
 
@@ -24,7 +20,6 @@ Extensive experiments on ChestX-ray14 (5-3 & 6-4 splits, long-tailed and balance
 
 
 <div align="center">
-  <!-- 设为 900 px 左右，一般栏宽约 1000 px，可近似占 80% -->
   <img src="LK-CIL-overview.png" alt="Overview" width="800">
 </div>
 
