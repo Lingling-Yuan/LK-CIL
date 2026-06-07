@@ -1,8 +1,5 @@
 # [IEEE-TRPMS 2026] LK-CIL: Language-guided knowledge-enhanced class-incremental learning for chest X-ray imaging
-
-## Authors: Lingling Yuan, Kang Fu, Xiangwen Kong, Yan Han, Hongzan Sun, Xiaoyan Li, Marcin Grzegorzek, and Chen Li*
-
-
+**Authors:** Lingling Yuan, Kang Fu, Xiangwen Kong, Yan Han, Hongzan Sun, Xiaoyan Li, Marcin Grzegorzek, and Chen Li*
 
 ## Abstract
 
