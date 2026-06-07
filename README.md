@@ -1,4 +1,4 @@
-# [IEEE TRPMS 2026] LK-CIL: Language-guided knowledge-enhanced class-incremental learning for chest X-ray imaging
+# [IEEE-TRPMS 2026] Language-guided knowledge-enhanced class-incremental learning for chest X-ray imaging
 
 ## Authors
 
